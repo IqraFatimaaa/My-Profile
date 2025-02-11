@@ -75,7 +75,7 @@ const PortfolioPage = () => {
           </h1>
 
           <a
-            href="src\assets\cvv.pdf"
+            href="/cvv.pdf"
             download
             className="mt-6 px-6 py-3 bg-purple-600 text-white text-lg rounded-full shadow-md hover:bg-purple-700 inline-block"
           >
